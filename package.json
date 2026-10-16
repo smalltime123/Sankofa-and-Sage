@@ -1,0 +1,16 @@
+{
+  "name": "sankofa-and-sage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ghanaian and international restaurant website with menu, cart and WhatsApp delivery or pickup requests.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/dev-server.mjs",
+    "dev": "node scripts/dev-server.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
